@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Office-Workspace\\Documents\\Visual Studio 2019\\Projects\\Dotnet-Core\\CleanArchitectureDotNet\\CleanArchitecture.App\\CleanArchitecture.App.csproj",
+      "projectUniqueName": "C:\\Users\\Office-Workspace\\Documents\\Visual Studio 2019\\Projects\\Dotnet-Core\\CleanArchitectureDotNetCore\\CleanArchitecture.App\\CleanArchitecture.App.csproj",
       "projectName": "CleanArchitecture.App",
-      "projectPath": "C:\\Users\\Office-Workspace\\Documents\\Visual Studio 2019\\Projects\\Dotnet-Core\\CleanArchitectureDotNet\\CleanArchitecture.App\\CleanArchitecture.App.csproj",
+      "projectPath": "C:\\Users\\Office-Workspace\\Documents\\Visual Studio 2019\\Projects\\Dotnet-Core\\CleanArchitectureDotNetCore\\CleanArchitecture.App\\CleanArchitecture.App.csproj",
       "packagesPath": "C:\\Users\\Office-Workspace\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Office-Workspace\\Documents\\Visual Studio 2019\\Projects\\Dotnet-Core\\CleanArchitectureDotNet\\CleanArchitecture.App\\obj\\",
+      "outputPath": "C:\\Users\\Office-Workspace\\Documents\\Visual Studio 2019\\Projects\\Dotnet-Core\\CleanArchitectureDotNetCore\\CleanArchitecture.App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Office-Workspace\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,8 +52,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Office-Workspace\\Documents\\Visual Studio 2019\\Projects\\Dotnet-Core\\CleanArchitectureDotNet\\ClassLibrary1\\CleanArchitecture.Domain.csproj": {
-              "projectPath": "C:\\Users\\Office-Workspace\\Documents\\Visual Studio 2019\\Projects\\Dotnet-Core\\CleanArchitectureDotNet\\ClassLibrary1\\CleanArchitecture.Domain.csproj"
+            "C:\\Users\\Office-Workspace\\Documents\\Visual Studio 2019\\Projects\\Dotnet-Core\\CleanArchitectureDotNetCore\\ClassLibrary1\\CleanArchitecture.Domain.csproj": {
+              "projectPath": "C:\\Users\\Office-Workspace\\Documents\\Visual Studio 2019\\Projects\\Dotnet-Core\\CleanArchitectureDotNetCore\\ClassLibrary1\\CleanArchitecture.Domain.csproj"
             }
           }
         }

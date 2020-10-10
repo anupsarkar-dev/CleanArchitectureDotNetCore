@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "soRz1tzI7n+fNKgroLl8IdaS9Pb05R0QU7he08lNDBq/9KhVQY+51gCd+bvIXUSckF8PwnyGq1nbQn0cknrG/A==",
+  "dgSpecHash": "k8zdnHAcw0Zn7jZyv0uc+/EL4kLjNIm5PUWrhknyOrsro5IvmY9pDyE7mWRZQ6UB1XVsbJLJUX3aeqHclBOLyQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Office-Workspace\\Documents\\Visual Studio 2019\\Projects\\Dotnet-Core\\CleanArchitectureDotNet\\ClassLibrary1\\CleanArchitecture.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Office-Workspace\\Documents\\Visual Studio 2019\\Projects\\Dotnet-Core\\CleanArchitectureDotNetCore\\ClassLibrary1\\CleanArchitecture.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

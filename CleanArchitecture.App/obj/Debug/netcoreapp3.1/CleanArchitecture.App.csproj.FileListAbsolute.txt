@@ -22,3 +22,15 @@ C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\Clea
 C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNet\CleanArchitecture.App\obj\Debug\netcoreapp3.1\CleanArchitecture.App.csproj.CopyComplete
 C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNet\CleanArchitecture.App\obj\Debug\netcoreapp3.1\CleanArchitecture.App.dll
 C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNet\CleanArchitecture.App\obj\Debug\netcoreapp3.1\CleanArchitecture.App.pdb
+C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNetCore\CleanArchitecture.App\bin\Debug\netcoreapp3.1\CleanArchitecture.App.deps.json
+C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNetCore\CleanArchitecture.App\bin\Debug\netcoreapp3.1\CleanArchitecture.App.dll
+C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNetCore\CleanArchitecture.App\bin\Debug\netcoreapp3.1\CleanArchitecture.App.pdb
+C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNetCore\CleanArchitecture.App\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.dll
+C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNetCore\CleanArchitecture.App\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.pdb
+C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNetCore\CleanArchitecture.App\obj\Debug\netcoreapp3.1\CleanArchitecture.App.csprojAssemblyReference.cache
+C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNetCore\CleanArchitecture.App\obj\Debug\netcoreapp3.1\CleanArchitecture.App.AssemblyInfoInputs.cache
+C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNetCore\CleanArchitecture.App\obj\Debug\netcoreapp3.1\CleanArchitecture.App.AssemblyInfo.cs
+C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNetCore\CleanArchitecture.App\obj\Debug\netcoreapp3.1\CleanArchitecture.App.csproj.CoreCompileInputs.cache
+C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNetCore\CleanArchitecture.App\obj\Debug\netcoreapp3.1\CleanArchitecture.App.csproj.CopyComplete
+C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNetCore\CleanArchitecture.App\obj\Debug\netcoreapp3.1\CleanArchitecture.App.dll
+C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNetCore\CleanArchitecture.App\obj\Debug\netcoreapp3.1\CleanArchitecture.App.pdb

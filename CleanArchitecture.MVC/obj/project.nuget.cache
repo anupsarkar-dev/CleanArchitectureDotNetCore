@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oSASSVtZ9VL7DgOK649cAccIEndrMeFy8u9cq4v1JXiMCnPGYNRMRB/SPyMjR8OicaEg+NJacpOsdP2CTtie8g==",
+  "dgSpecHash": "AC0v/mXS59iymmK/KLJ1gn7YZiTR8mkz+o6e/GLvwvs7pPAUwZoIS4gT6xlwlQTOiJCwKE9ml4nWkNXPYOUd3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Office-Workspace\\Documents\\Visual Studio 2019\\Projects\\Dotnet-Core\\CleanArchitectureDotNet\\CleanArchitecture.MVC\\CleanArchitecture.MVC.csproj",
+  "projectFilePath": "C:\\Users\\Office-Workspace\\Documents\\Visual Studio 2019\\Projects\\Dotnet-Core\\CleanArchitectureDotNetCore\\CleanArchitecture.MVC\\CleanArchitecture.MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Office-Workspace\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.8\\microsoft.aspnetcore.cryptography.internal.3.1.8.nupkg.sha512",
     "C:\\Users\\Office-Workspace\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.8\\microsoft.aspnetcore.cryptography.keyderivation.3.1.8.nupkg.sha512",

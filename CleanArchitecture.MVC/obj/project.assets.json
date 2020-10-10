@@ -8846,11 +8846,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Office-Workspace\\Documents\\Visual Studio 2019\\Projects\\Dotnet-Core\\CleanArchitectureDotNet\\CleanArchitecture.MVC\\CleanArchitecture.MVC.csproj",
+      "projectUniqueName": "C:\\Users\\Office-Workspace\\Documents\\Visual Studio 2019\\Projects\\Dotnet-Core\\CleanArchitectureDotNetCore\\CleanArchitecture.MVC\\CleanArchitecture.MVC.csproj",
       "projectName": "CleanArchitecture.MVC",
-      "projectPath": "C:\\Users\\Office-Workspace\\Documents\\Visual Studio 2019\\Projects\\Dotnet-Core\\CleanArchitectureDotNet\\CleanArchitecture.MVC\\CleanArchitecture.MVC.csproj",
+      "projectPath": "C:\\Users\\Office-Workspace\\Documents\\Visual Studio 2019\\Projects\\Dotnet-Core\\CleanArchitectureDotNetCore\\CleanArchitecture.MVC\\CleanArchitecture.MVC.csproj",
       "packagesPath": "C:\\Users\\Office-Workspace\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Office-Workspace\\Documents\\Visual Studio 2019\\Projects\\Dotnet-Core\\CleanArchitectureDotNet\\CleanArchitecture.MVC\\obj\\",
+      "outputPath": "C:\\Users\\Office-Workspace\\Documents\\Visual Studio 2019\\Projects\\Dotnet-Core\\CleanArchitectureDotNetCore\\CleanArchitecture.MVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Office-Workspace\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8866,11 +8866,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Office-Workspace\\Documents\\Visual Studio 2019\\Projects\\Dotnet-Core\\CleanArchitectureDotNet\\CleanArchitecture.Infra.Data\\CleanArchitecture.Infra.Data.csproj": {
-              "projectPath": "C:\\Users\\Office-Workspace\\Documents\\Visual Studio 2019\\Projects\\Dotnet-Core\\CleanArchitectureDotNet\\CleanArchitecture.Infra.Data\\CleanArchitecture.Infra.Data.csproj"
+            "C:\\Users\\Office-Workspace\\Documents\\Visual Studio 2019\\Projects\\Dotnet-Core\\CleanArchitectureDotNetCore\\CleanArchitecture.Infra.Data\\CleanArchitecture.Infra.Data.csproj": {
+              "projectPath": "C:\\Users\\Office-Workspace\\Documents\\Visual Studio 2019\\Projects\\Dotnet-Core\\CleanArchitectureDotNetCore\\CleanArchitecture.Infra.Data\\CleanArchitecture.Infra.Data.csproj"
             },
-            "C:\\Users\\Office-Workspace\\Documents\\Visual Studio 2019\\Projects\\Dotnet-Core\\CleanArchitectureDotNet\\CleanArchitecture.Infra.IoC\\CleanArchitecture.Infra.IoC.csproj": {
-              "projectPath": "C:\\Users\\Office-Workspace\\Documents\\Visual Studio 2019\\Projects\\Dotnet-Core\\CleanArchitectureDotNet\\CleanArchitecture.Infra.IoC\\CleanArchitecture.Infra.IoC.csproj"
+            "C:\\Users\\Office-Workspace\\Documents\\Visual Studio 2019\\Projects\\Dotnet-Core\\CleanArchitectureDotNetCore\\CleanArchitecture.Infra.IoC\\CleanArchitecture.Infra.IoC.csproj": {
+              "projectPath": "C:\\Users\\Office-Workspace\\Documents\\Visual Studio 2019\\Projects\\Dotnet-Core\\CleanArchitectureDotNetCore\\CleanArchitecture.Infra.IoC\\CleanArchitecture.Infra.IoC.csproj"
             }
           }
         }

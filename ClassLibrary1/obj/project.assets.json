@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Office-Workspace\\Documents\\Visual Studio 2019\\Projects\\Dotnet-Core\\CleanArchitectureDotNet\\ClassLibrary1\\CleanArchitecture.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Office-Workspace\\Documents\\Visual Studio 2019\\Projects\\Dotnet-Core\\CleanArchitectureDotNetCore\\ClassLibrary1\\CleanArchitecture.Domain.csproj",
       "projectName": "CleanArchitecture.Domain",
-      "projectPath": "C:\\Users\\Office-Workspace\\Documents\\Visual Studio 2019\\Projects\\Dotnet-Core\\CleanArchitectureDotNet\\ClassLibrary1\\CleanArchitecture.Domain.csproj",
+      "projectPath": "C:\\Users\\Office-Workspace\\Documents\\Visual Studio 2019\\Projects\\Dotnet-Core\\CleanArchitectureDotNetCore\\ClassLibrary1\\CleanArchitecture.Domain.csproj",
       "packagesPath": "C:\\Users\\Office-Workspace\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Office-Workspace\\Documents\\Visual Studio 2019\\Projects\\Dotnet-Core\\CleanArchitectureDotNet\\ClassLibrary1\\obj\\",
+      "outputPath": "C:\\Users\\Office-Workspace\\Documents\\Visual Studio 2019\\Projects\\Dotnet-Core\\CleanArchitectureDotNetCore\\ClassLibrary1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Office-Workspace\\AppData\\Roaming\\NuGet\\NuGet.Config",

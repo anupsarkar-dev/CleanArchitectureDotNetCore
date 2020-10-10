@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oTrD3jrZ6d632svXFXp28lsWRfB4DdRZrDOVzesdykWnrpXDmSW2dSmYBG7NSuT4gUhaVinGi3P4Nrr3w1OjbA==",
+  "dgSpecHash": "pZOFEA03/wXF/byXNcOZvie+CMGoibHU2fLXk9a+naVIL9fW0QziQFse1/BIDSfSIx0nIJLRis4JJKmS3ogtSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Office-Workspace\\Documents\\Visual Studio 2019\\Projects\\Dotnet-Core\\CleanArchitectureDotNet\\CleanArchitecture.App\\CleanArchitecture.App.csproj",
+  "projectFilePath": "C:\\Users\\Office-Workspace\\Documents\\Visual Studio 2019\\Projects\\Dotnet-Core\\CleanArchitectureDotNetCore\\CleanArchitecture.App\\CleanArchitecture.App.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

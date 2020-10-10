@@ -18,18 +18,23 @@ namespace CleanArchitecture.Infra.Data.Repositories
             _context = context;
         }
 
-        public bool DeleteUser(string uid,bool action)
-        {
-            var localUser = new UserAccount { Uid = uid  , IsDelete = action };
+        //public bool DeleteUser(string uid,bool action)
+        //{
+        //    var localUser = new UserAccount { Uid = uid  , IsDelete = action };
 
-            _context.Entry(localUser).Property(s => s.IsDelete).IsModified = action;
-            _context.SaveChanges();
+        //    _context.Entry(localUser).Property(s => s.IsDelete).IsModified = action;
+        //    _context.SaveChanges();
 
-            // Only downside of restricting EF Core from tracking object that we cannot know  
-            //if Entity is updated or not  without checking it again from DB. Previously can be done easily like this
+        //    // Only downside of restricting EF Core from tracking object that we cannot know  
+        //    //if Entity is updated or not  without checking it again from DB. Previously can be done easily like this
             
-            //return _context.Entry(localUser).State == EntityState.Unchanged ? false : true;
-            return _context.UserAccounts.Find(uid).IsDelete == action;
+        //    //return _context.Entry(localUser).State == EntityState.Unchanged ? false : true;
+        //    return _context.UserAccounts.Find(uid).IsDelete == action;
+        //}
+
+        public bool DeleteUser(string uid)
+        {
+            throw new NotImplementedException();
         }
 
         public IEnumerable<UserAccount> GetUserAccounts() { return _context.UserAccounts; }

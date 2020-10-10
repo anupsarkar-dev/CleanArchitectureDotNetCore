@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OD+01nG+IRkFpHKKsznSXwNw11KVsL2l1MFzM9+CVQM8CkhtbdUEooNF6L63ztlxoqw8u9BeIWcUN4EF/ADWqw==",
+  "dgSpecHash": "2+WdPegwJsPesR1wrkgb+HLZ9ck/WH7xmaLaI1TCfywj7Agc/+CXSkQoJQhMYSlt78Z62OtQ5I1yjSUGwaKMQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Office-Workspace\\Documents\\Visual Studio 2019\\Projects\\Dotnet-Core\\CleanArchitectureDotNet\\CleanArchitecture.Infra.Data\\CleanArchitecture.Infra.Data.csproj",
+  "projectFilePath": "C:\\Users\\Office-Workspace\\Documents\\Visual Studio 2019\\Projects\\Dotnet-Core\\CleanArchitectureDotNetCore\\CleanArchitecture.Infra.Data\\CleanArchitecture.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Office-Workspace\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Office-Workspace\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
