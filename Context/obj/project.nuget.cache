@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fz8Sd2DnmyTyH2t2mCXTAjaN7zEHtMbrlaZ2oJWo5GCeyq/gEuKuV7RB9bWYy5+RD8/FQ6uiydY4tztOoEZfhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anup Workspace\\Documents\\DotNetCore\\CleanArchitecture\\Context\\Context.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anup Workspace\\.nuget\\packages\\fsharp.core\\4.7.2\\fsharp.core.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

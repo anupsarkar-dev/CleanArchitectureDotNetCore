@@ -1,0 +1,18 @@
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\ClassLibrary1\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.deps.json
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\ClassLibrary1\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.dll
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\ClassLibrary1\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.pdb
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\ClassLibrary1\obj\Debug\netcoreapp3.1\CleanArchitecture.Domain.AssemblyInfoInputs.cache
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\ClassLibrary1\obj\Debug\netcoreapp3.1\CleanArchitecture.Domain.AssemblyInfo.cs
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\ClassLibrary1\obj\Debug\netcoreapp3.1\CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\ClassLibrary1\obj\Debug\netcoreapp3.1\CleanArchitecture.Domain.dll
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\ClassLibrary1\obj\Debug\netcoreapp3.1\CleanArchitecture.Domain.pdb
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\ClassLibrary1\obj\Debug\netcoreapp3.1\CleanArchitecture.Domain.csprojAssemblyReference.cache
+C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNet\ClassLibrary1\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.deps.json
+C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNet\ClassLibrary1\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.dll
+C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNet\ClassLibrary1\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.pdb
+C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNet\ClassLibrary1\obj\Debug\netcoreapp3.1\CleanArchitecture.Domain.csprojAssemblyReference.cache
+C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNet\ClassLibrary1\obj\Debug\netcoreapp3.1\CleanArchitecture.Domain.AssemblyInfoInputs.cache
+C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNet\ClassLibrary1\obj\Debug\netcoreapp3.1\CleanArchitecture.Domain.AssemblyInfo.cs
+C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNet\ClassLibrary1\obj\Debug\netcoreapp3.1\CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNet\ClassLibrary1\obj\Debug\netcoreapp3.1\CleanArchitecture.Domain.dll
+C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNet\ClassLibrary1\obj\Debug\netcoreapp3.1\CleanArchitecture.Domain.pdb

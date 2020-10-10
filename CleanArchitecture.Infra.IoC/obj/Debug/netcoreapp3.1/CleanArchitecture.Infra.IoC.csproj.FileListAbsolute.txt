@@ -1,0 +1,32 @@
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\CleanArchitecture.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArchitecture.Infra.IoC.deps.json
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\CleanArchitecture.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArchitecture.Infra.IoC.dll
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\CleanArchitecture.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.IoC.csprojAssemblyReference.cache
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\CleanArchitecture.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\CleanArchitecture.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.IoC.AssemblyInfo.cs
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\CleanArchitecture.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArchitecture.Infra.IoC.pdb
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\CleanArchitecture.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArchitecture.App.dll
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\CleanArchitecture.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.dll
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\CleanArchitecture.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.dll
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\CleanArchitecture.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArchitecture.App.pdb
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\CleanArchitecture.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.pdb
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\CleanArchitecture.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.pdb
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\CleanArchitecture.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\CleanArchitecture.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.IoC.csproj.CopyComplete
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\CleanArchitecture.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.IoC.dll
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\CleanArchitecture.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.IoC.pdb
+C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNet\CleanArchitecture.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArchitecture.Infra.IoC.deps.json
+C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNet\CleanArchitecture.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArchitecture.Infra.IoC.dll
+C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNet\CleanArchitecture.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArchitecture.Infra.IoC.pdb
+C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNet\CleanArchitecture.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArchitecture.App.dll
+C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNet\CleanArchitecture.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.dll
+C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNet\CleanArchitecture.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.dll
+C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNet\CleanArchitecture.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArchitecture.App.pdb
+C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNet\CleanArchitecture.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.pdb
+C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNet\CleanArchitecture.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.pdb
+C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNet\CleanArchitecture.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.IoC.csprojAssemblyReference.cache
+C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNet\CleanArchitecture.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNet\CleanArchitecture.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.IoC.AssemblyInfo.cs
+C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNet\CleanArchitecture.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNet\CleanArchitecture.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.IoC.csproj.CopyComplete
+C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNet\CleanArchitecture.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.IoC.dll
+C:\Users\Office-Workspace\Documents\Visual Studio 2019\Projects\Dotnet-Core\CleanArchitectureDotNet\CleanArchitecture.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.IoC.pdb

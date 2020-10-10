@@ -1,0 +1,9 @@
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\ClassLibrary2\bin\Debug\netcoreapp3.1\ClassLibrary2.deps.json
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\ClassLibrary2\bin\Debug\netcoreapp3.1\ClassLibrary2.dll
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\ClassLibrary2\obj\Debug\netcoreapp3.1\ClassLibrary2.csprojAssemblyReference.cache
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\ClassLibrary2\obj\Debug\netcoreapp3.1\ClassLibrary2.AssemblyInfoInputs.cache
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\ClassLibrary2\obj\Debug\netcoreapp3.1\ClassLibrary2.AssemblyInfo.cs
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\ClassLibrary2\bin\Debug\netcoreapp3.1\ClassLibrary2.pdb
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\ClassLibrary2\obj\Debug\netcoreapp3.1\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\ClassLibrary2\obj\Debug\netcoreapp3.1\ClassLibrary2.dll
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\ClassLibrary2\obj\Debug\netcoreapp3.1\ClassLibrary2.pdb
